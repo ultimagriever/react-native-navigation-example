@@ -1,0 +1,18 @@
+{
+  "name": "menuTest",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "immutable": "^3.8.1",
+    "react": "15.2.1",
+    "react-native": "0.31.0",
+    "react-native-navigation-redux-helpers": "^0.3.0",
+    "react-native-side-menu": "^0.20.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2",
+    "redux-immutable": "^3.0.7"
+  }
+}
